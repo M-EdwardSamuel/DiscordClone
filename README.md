@@ -87,6 +87,3 @@ python manage.py runserver
 
 ---
 
-## 📌 Note
-
-Make sure the `screenshots/` folder exists in your GitHub repo and contains all the mentioned images for proper rendering.
